@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/kessokuband",
+  "templates": [
+    {
+      "name": "Kessoku Portugal",
+      "sources": [
+        "https://i.imgur.com/W8ryvVs.png"
+      ],
+      "x": 281,
+      "y": 340
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
